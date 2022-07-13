@@ -16,9 +16,7 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: Build with Gradle
-        run: | 
-         ./gradlew wrapper --gradle-version=7.3
-         ./gradlew build --warning-mode all
+        run: ./gradlew build --warning-mode all
       - name: Check directories
         run: tree
       - name: Upload .jar file
