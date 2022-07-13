@@ -79,7 +79,7 @@
     "gui.plasmo_voice.general.activation.threshold.tooltip_8": "la prueba de micrófono y escuchar tu voz.",
 
 
-    "gui.plasmo_voice.general.icons": "iconos",
+    "gui.plasmo_voice.general.icons": "Iconos",
     "gui.plasmo_voice.general.icons.tooltip_1": "Sólo interfaz: Los iconos están ocultos al",
     "gui.plasmo_voice.general.icons.tooltip_2": "presionar F1 y la interfaz también.",
     "gui.plasmo_voice.general.icons.tooltip_3": "",
