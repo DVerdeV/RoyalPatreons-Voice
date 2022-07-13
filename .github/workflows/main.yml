@@ -15,8 +15,10 @@ jobs:
           cache: gradle
       - name: Make gradlew executable
         run: chmod +x ./gradlew
+      - name: Clean Gradle cache
+        run: ./gradlew clean
       - name: Build with Gradle
-        run: ./gradlew build --warning-mode all
+        run: ./gradlew build
       - name: Check directories
         run: tree
       - name: Upload .jar file
