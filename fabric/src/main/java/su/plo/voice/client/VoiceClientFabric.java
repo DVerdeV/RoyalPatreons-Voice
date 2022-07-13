@@ -33,7 +33,7 @@ public class VoiceClientFabric extends VoiceClient implements ClientModInitializ
                 new KeyMapping("key.plasmo_voice.settings",
                         InputConstants.Type.KEYSYM,
                         GLFW.GLFW_KEY_V,
-                        "Plasmo Voice")
+                        "RoyalPatreons Voice")
         );
 
         ClientNetworkHandlerFabric network = new ClientNetworkHandlerFabric();
