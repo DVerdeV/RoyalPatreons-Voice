@@ -2,17 +2,17 @@
     "schemaVersion": 1,
     "id": "plasmo_voice",
     "version": "${version}",
-    "name": "Plasmo Voice",
-    "description": "A proximity voice chat mod with audio positioning and lots of features",
+    "name": "RoyalPatreons Voice",
+    "description": "Un chat de proximidad compatible con los servidores creador por RoyalPatreons.",
     "authors": [
-        "Plasmo"
+        "RoyalPatreons"
     ],
     "contact": {
-        "homepage": "https://github.com/plasmoapp/plasmo-voice",
-        "sources": "https://github.com/plasmoapp/plasmo-voice",
-        "issues": "https://github.com/plasmoapp/plasmo-voice/issues"
+        "homepage": "https://www.royalpatreons.es/",
+        "sources": "https://www.royalpatreons.es/",
+        "issues": "https://www.royalpatreons.es/"
     },
-    "license": "All rights reserved",
+    "license": "Todos los derechos reservados",
     "icon": "assets/plasmo_voice/icon.png",
     "environment": "*",
     "entrypoints": {
